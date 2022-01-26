@@ -1,2 +1,6 @@
 # HirstPainting
- HirstPainting using the turtle module in Python
+HirstPainting using the turtle module in Python
+
+
+
+The GIF image is exported.
